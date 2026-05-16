@@ -26,4 +26,4 @@ See [license.md](https://github.com/TheOdinProject/curriculum/blob/main/license.
 
 ___
 
-Created by [Erik Trautman](http://www.github.com/eriktrautman).
+Creat
